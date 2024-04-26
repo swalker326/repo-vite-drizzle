@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1714102639666,
+      "tag": "0000_broad_monster_badoon",
+      "breakpoints": true
+    }
+  ]
+}
